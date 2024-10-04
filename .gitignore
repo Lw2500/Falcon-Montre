@@ -1,0 +1,10 @@
+# Delphi
+*.dcu
+*.~*
+*.~bpl
+
+# Android
+*.apk
+*.ap_
+*.dex
+*.class
